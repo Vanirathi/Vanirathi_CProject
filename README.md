@@ -1,4 +1,4 @@
-# Vanirathi_CProject
+
 #include <stdio.h>
 #include <string.h>
 
